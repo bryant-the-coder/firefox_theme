@@ -1,0 +1,43 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Everforest base16",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-001-9c6d74e14860e77ee6f8f43e824bff25.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(54, 62, 68)",
+      "toolbar_text": "rgb(211, 198, 170)",
+      "frame": "rgb(40, 43, 44)",
+      "tab_background_text": "rgb(130, 179, 168)",
+      "toolbar_field": "rgb(46, 54, 60)",
+      "toolbar_field_text": "rgb(244, 228, 192)",
+      "tab_line": "rgb(167, 192, 128)",
+      "popup": "rgb(34, 42, 48)",
+      "popup_text": "rgb(131, 192, 146)",
+      "button_background_hover": "rgb(34, 42, 48)",
+      "icons": "rgb(220, 215, 186)",
+      "ntp_background": "rgb(28, 36, 42)",
+      "popup_border": "rgb(230, 126, 128)",
+      "popup_highlight_text": "rgb(244, 243, 248)",
+      "popup_highlight": "rgb(80, 88, 94)",
+      "sidebar": "rgb(51, 59, 65)",
+      "tab_loading": "rgb(0, 146, 255)",
+      "toolbar_bottom_separator": "rgb(44, 47, 48)",
+      "toolbar_field_border": "rgb(44, 47, 48)",
+      "toolbar_top_separator": "rgb(44, 47, 48)",
+      "toolbar_vertical_separator": "rgb(149, 209, 201)"
+    }
+  }
+}
